@@ -1,6 +1,6 @@
 # config.py - Конфигурация бота
 
-BOT_TOKEN = "8951923200:AAGzicU_5zXHOPUHgV9FbccwqfTPycc0-Ms"
+BOT_TOKEN = '8658276956:AAHspIJWa29ovdXF0vJTa0ZpTeKrfQFKDJE"
 ADMIN_IDS = [7317419505]
 
 PROXY_FILE = 'proxy.txt'
